@@ -14,5 +14,5 @@ Everything listed here can be completed by studying the documentation here:  htt
 
 ## Stretch
 
-Create unique buttons for each heading in the main-content section.  (use your mixin!).  Try out a fun mixin on hover for each button.
+Create unique buttons for each heading in the main-content section.  (Use a namespace!).  Try out a fun mixin on hover for each button.
 
